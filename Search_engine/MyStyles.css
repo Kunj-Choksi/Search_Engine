@@ -1,0 +1,26 @@
+/* CSS Document */
+ #aq{
+	background:none;
+}
+ 	*{
+		background-image:url(silver_lining-wallpaper-1920x1200.jpg);	
+		background-position:inherit;	
+	}
+	#ass{
+		background:none;
+		color:#000000;
+		border-radius:4px;
+		border-right-style:groove;
+		height:35px;
+		width:600px;
+		margin-left:350px;				
+	}	 
+	#op{
+		
+		background:none;
+		color:#000000;
+		width:600px;
+		margin-left:350px;
+		font-size:20px;
+		font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;		
+	}
