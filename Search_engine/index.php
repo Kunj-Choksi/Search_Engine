@@ -43,8 +43,8 @@
 	<h1 style="text-align:center;color:#5F5758;font-family:Constantia, 'Lucida Bright', 'DejaVu Serif', Georgia, serif">Search Engine</h1>
 	<form action="search.php" method="post"> 
 
-		<div id="aq">
-        <input id="ass" type="text" name="search" placeholder="Search Here" onKeyUp=	"searchq(this.value);">
+		<div id="one">
+        <input id="box" type="text" name="search" placeholder="Search Here" onKeyUp=	"searchq(this.value);">
   	  <div id="op"></div>
       </div>
 
